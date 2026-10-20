@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# RetinaGuard AI - project-specific exclusions
+kaggle.json
+.kaggle/
+.env
+data/
+dataset/
+datasets/
+*.pth
+*.pt
+outputs/
